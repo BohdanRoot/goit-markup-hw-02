@@ -143,8 +143,9 @@ background: #2E2F42;
 /*------------MAIN-TEAM--------*/
 
 .section-team{
-    background-color: #F4F4FD;
+    background-color: #F4F4FD
 }
+
 
 .team {
     color: #2E2F42;
@@ -169,6 +170,7 @@ background: #2E2F42;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF
 }
 
 .team-text {
