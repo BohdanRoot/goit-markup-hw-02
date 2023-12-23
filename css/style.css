@@ -143,7 +143,7 @@ background: #2E2F42;
 /*------------MAIN-TEAM--------*/
 
 .section-team{
-    background: #F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .team {
@@ -156,9 +156,10 @@ background: #2E2F42;
     text-transform: capitalize;
 }
 
-.team-list {background-color: #FFFFFF}
+.team-list {}
 
-.team-item {}
+.team-item { 
+    background-color: #FFFFFF}
 
 .team-img {}
 
