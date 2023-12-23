@@ -14,11 +14,11 @@ ul, ol {
 /*------------HEADER------------*/
 .logo {
     color: #4D5AE5;
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -46,7 +46,7 @@ ul, ol {
 .addres-link {
     color: #434455;
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .addres-link:hover,
@@ -74,7 +74,7 @@ background: #2E2F42;
 .hero-btn {
     color:  #FFF;
     text-align: center;
-    font-family: Roboto;
+    font-family: "Roboto" sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -113,7 +113,7 @@ background: #2E2F42;
     color: #434455;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5px
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -212,7 +212,7 @@ background: #2E2F42;
     color: #F4F4FD;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -221,6 +221,6 @@ background: #2E2F42;
     color: #F4F4FD;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
