@@ -45,18 +45,29 @@ ul, ol {
 
 .addres-list
 
-.addres-link {
+.addres-link-mail {
     color: #434455;
     font-size:16px;
     line-height:1.5;
     letter-spacing:0.02em;
 }
-.addres-link:hover{ 
+.addres-link-mail:hover{ 
     color: #404bbf
 }
-.addres-link:focus{
+.addres-link-mail:focus{
     color: #404BBF;
 }
+
+.addres-link-tel{
+    color: #434455;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+.addres-link-tel:hover{color: #404bbf}
+.addres-link-tel:focus {
+    color: #404BBF;}
+
 
 /*------------------------------*/
 /*------------MAIN-H1-BUTN------*/
