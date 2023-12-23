@@ -14,13 +14,13 @@ ul, ol {
 /*------------HEADER------------*/
 .logo {
     color: #4D5AE5;
-    font-family: Raleway, sans-serif
+    font-family: "Raleway" sans-serif;
     font-size: 18px;
+    font-style: normal;
     font-weight: 700;
-    line-height: 1.17;
+    line-height: 1.117px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}
 
 .logo-part {
     color: #2E2F42;
