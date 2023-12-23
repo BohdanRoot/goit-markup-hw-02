@@ -18,9 +18,10 @@ ul, ol {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.117px;
+    line-height: 1.17px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
 
 .logo-part {
     color: #2E2F42;
@@ -190,7 +191,7 @@ background: #2E2F42;
 /*------------FOOTER-----------*/
 
 .footer {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .footer-list {}
