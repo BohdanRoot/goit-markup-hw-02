@@ -45,28 +45,24 @@ ul, ol {
 
 .addres-list
 
-.addres-link-mail {
+.addres-item{
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
+
+.addres-link {
     color: #434455;
     font-size:16px;
     line-height:1.5;
     letter-spacing:0.02em;
 }
-.addres-link-mail:hover{ 
+.addres-link:hover{ 
     color: #404bbf
 }
-.addres-link-mail:focus{
+.addres-link:focus{
     color: #404BBF;
 }
-
-.addres-link-tel{
-    color: #434455;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-.addres-link-tel:hover{color: #404bbf}
-.addres-link-tel:focus {
-    color: #404BBF;}
 
 
 /*------------------------------*/
