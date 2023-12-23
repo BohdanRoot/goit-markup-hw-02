@@ -36,7 +36,7 @@ ul, ol {
 }
 .nav-link:hover,
 .nav-link:focus{
-    color: #404BBF;
+    color: #404bbf;
 }
 
 .addres{
@@ -49,7 +49,8 @@ ul, ol {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+}
 
 .addres-link {
     color: #434455;
@@ -57,9 +58,7 @@ ul, ol {
     line-height:1.5;
     letter-spacing:0.02em;
 }
-.addres-link:hover{ 
-    color: #404bbf
-}
+.addres-link:hover,
 .addres-link:focus{
     color: #404bbf;
 }
